@@ -1,0 +1,15 @@
+C:\Users\ediks\source\repos\MO-2 1st ovrazhnyi\MO-2 1st ovrazhnyi\bin\Debug\net6.0\MO-2 1st ovrazhnyi.exe
+C:\Users\ediks\source\repos\MO-2 1st ovrazhnyi\MO-2 1st ovrazhnyi\bin\Debug\net6.0\MO-2 1st ovrazhnyi.deps.json
+C:\Users\ediks\source\repos\MO-2 1st ovrazhnyi\MO-2 1st ovrazhnyi\bin\Debug\net6.0\MO-2 1st ovrazhnyi.runtimeconfig.json
+C:\Users\ediks\source\repos\MO-2 1st ovrazhnyi\MO-2 1st ovrazhnyi\bin\Debug\net6.0\MO-2 1st ovrazhnyi.dll
+C:\Users\ediks\source\repos\MO-2 1st ovrazhnyi\MO-2 1st ovrazhnyi\bin\Debug\net6.0\MO-2 1st ovrazhnyi.pdb
+C:\Users\ediks\source\repos\MO-2 1st ovrazhnyi\MO-2 1st ovrazhnyi\obj\Debug\net6.0\MO-2 1st ovrazhnyi.csproj.AssemblyReference.cache
+C:\Users\ediks\source\repos\MO-2 1st ovrazhnyi\MO-2 1st ovrazhnyi\obj\Debug\net6.0\MO-2 1st ovrazhnyi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ediks\source\repos\MO-2 1st ovrazhnyi\MO-2 1st ovrazhnyi\obj\Debug\net6.0\MO-2 1st ovrazhnyi.AssemblyInfoInputs.cache
+C:\Users\ediks\source\repos\MO-2 1st ovrazhnyi\MO-2 1st ovrazhnyi\obj\Debug\net6.0\MO-2 1st ovrazhnyi.AssemblyInfo.cs
+C:\Users\ediks\source\repos\MO-2 1st ovrazhnyi\MO-2 1st ovrazhnyi\obj\Debug\net6.0\MO-2 1st ovrazhnyi.csproj.CoreCompileInputs.cache
+C:\Users\ediks\source\repos\MO-2 1st ovrazhnyi\MO-2 1st ovrazhnyi\obj\Debug\net6.0\MO-2 1st ovrazhnyi.dll
+C:\Users\ediks\source\repos\MO-2 1st ovrazhnyi\MO-2 1st ovrazhnyi\obj\Debug\net6.0\refint\MO-2 1st ovrazhnyi.dll
+C:\Users\ediks\source\repos\MO-2 1st ovrazhnyi\MO-2 1st ovrazhnyi\obj\Debug\net6.0\MO-2 1st ovrazhnyi.pdb
+C:\Users\ediks\source\repos\MO-2 1st ovrazhnyi\MO-2 1st ovrazhnyi\obj\Debug\net6.0\MO-2 1st ovrazhnyi.genruntimeconfig.cache
+C:\Users\ediks\source\repos\MO-2 1st ovrazhnyi\MO-2 1st ovrazhnyi\obj\Debug\net6.0\ref\MO-2 1st ovrazhnyi.dll

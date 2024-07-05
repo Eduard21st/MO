@@ -1,0 +1,15 @@
+C:\Users\ediks\source\repos\MO-2 naiskor spusk\MO-2 naiskor spusk\bin\Debug\net6.0\MO-2 naiskor spusk.exe
+C:\Users\ediks\source\repos\MO-2 naiskor spusk\MO-2 naiskor spusk\bin\Debug\net6.0\MO-2 naiskor spusk.deps.json
+C:\Users\ediks\source\repos\MO-2 naiskor spusk\MO-2 naiskor spusk\bin\Debug\net6.0\MO-2 naiskor spusk.runtimeconfig.json
+C:\Users\ediks\source\repos\MO-2 naiskor spusk\MO-2 naiskor spusk\bin\Debug\net6.0\MO-2 naiskor spusk.dll
+C:\Users\ediks\source\repos\MO-2 naiskor spusk\MO-2 naiskor spusk\bin\Debug\net6.0\MO-2 naiskor spusk.pdb
+C:\Users\ediks\source\repos\MO-2 naiskor spusk\MO-2 naiskor spusk\obj\Debug\net6.0\MO-2 naiskor spusk.csproj.AssemblyReference.cache
+C:\Users\ediks\source\repos\MO-2 naiskor spusk\MO-2 naiskor spusk\obj\Debug\net6.0\MO-2 naiskor spusk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ediks\source\repos\MO-2 naiskor spusk\MO-2 naiskor spusk\obj\Debug\net6.0\MO-2 naiskor spusk.AssemblyInfoInputs.cache
+C:\Users\ediks\source\repos\MO-2 naiskor spusk\MO-2 naiskor spusk\obj\Debug\net6.0\MO-2 naiskor spusk.AssemblyInfo.cs
+C:\Users\ediks\source\repos\MO-2 naiskor spusk\MO-2 naiskor spusk\obj\Debug\net6.0\MO-2 naiskor spusk.csproj.CoreCompileInputs.cache
+C:\Users\ediks\source\repos\MO-2 naiskor spusk\MO-2 naiskor spusk\obj\Debug\net6.0\MO-2 naiskor spusk.dll
+C:\Users\ediks\source\repos\MO-2 naiskor spusk\MO-2 naiskor spusk\obj\Debug\net6.0\refint\MO-2 naiskor spusk.dll
+C:\Users\ediks\source\repos\MO-2 naiskor spusk\MO-2 naiskor spusk\obj\Debug\net6.0\MO-2 naiskor spusk.pdb
+C:\Users\ediks\source\repos\MO-2 naiskor spusk\MO-2 naiskor spusk\obj\Debug\net6.0\MO-2 naiskor spusk.genruntimeconfig.cache
+C:\Users\ediks\source\repos\MO-2 naiskor spusk\MO-2 naiskor spusk\obj\Debug\net6.0\ref\MO-2 naiskor spusk.dll
