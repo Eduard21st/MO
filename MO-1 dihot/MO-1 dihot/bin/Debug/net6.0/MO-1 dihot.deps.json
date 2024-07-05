@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MO-1 dihot/1.0.0": {
+        "runtime": {
+          "MO-1 dihot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MO-1 dihot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
